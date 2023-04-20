@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there, I'm Furqan 👋
 
-<!--
-**FurqanA1/FurqanA1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱  Graduated from the [Univeristy of Surrey](https://www.surrey.ac.uk/) in Electronic & Electrical Engineering BEng
+- 🔭  I’m currently working as a Data Engineer Consultant at [Xander Talent](https://www.xandertalent.com/)
+- 🥅  2023 Goals: Maximise my learning, contribute to new projects,
+- ⚡  Fun facts: I enjoy going to the gym 🏋️ PLaying Football & Basketball⚽ Playing video games 🎮
 
-Here are some ideas to get you started:
+After graduating from the University of Surrey, I took a roll of a Security Systems Engineer where I developed many technical and soft skills. I then decided to take my career in a much more technical role to challenge myself and align with my aspirations. I am now working at Xander Talent where I am upskilling myself and refamiliarising myself with programming languages such as Python, SQL etc.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+💬Recommended Learning Resources
+- [freeCodeCamp](https://www.freecodecamp.org/learn/)
+- [Codecademy](https://www.codecademy.com)
+- [HackerRank](https://www.hackerrank.com/dashboard)
+
+![LinkedIn Data 106](https://user-images.githubusercontent.com/131258394/233396541-a40824d1-167c-4f6d-93a5-e49468ec08f0.png)
