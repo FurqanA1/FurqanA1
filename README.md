@@ -1,6 +1,6 @@
 ### Hi there, I'm Furqan 👋
 
-- 🌱  Graduated from the [Univeristy of Surrey](https://www.surrey.ac.uk/) in Electronic & Electrical Engineering BEng
+- 🌱  Graduated from the [University of Surrey](https://www.surrey.ac.uk/) in Electronic & Electrical Engineering BEng
 - 🔭  I’m currently working as a Data Engineer Consultant at [Xander Talent](https://www.xandertalent.com/)
 - 🥅  2023 Goals: Maximise my learning, contribute to new projects,
 - ⚡  Fun facts: I enjoy going to the gym 🏋️ Playing Football & Basketball⚽ Playing video games 🎮
